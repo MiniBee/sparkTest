@@ -4,4 +4,4 @@
 *.log
 *.iml
 */*.iml
-
+/spark-warehouse/
